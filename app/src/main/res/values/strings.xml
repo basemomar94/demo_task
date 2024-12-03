@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">demo task</string>
+    <string name="favorite">Favorite</string>
+    <string name="all">ALL</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+</resources>
